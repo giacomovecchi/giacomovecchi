@@ -1,4 +1,4 @@
-Hi 👋 My name is Giacomo
+<h1>Hi 👋 My name is Giacomo</h1>
 I'm a passionate Front-End Developer from Italy 
 
 🌍  I'm based in Italy<br/>
