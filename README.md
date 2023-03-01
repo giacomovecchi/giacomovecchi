@@ -3,7 +3,7 @@ I'm a passionate Front-End Developer from Italy
 
 🌍  I'm based in Italy<br/>
 ✉️  You can contact me at giacomovecchi1997@gmail.com<br/>
-🧠  I'm learning React, Next.js and React Native<br/>
+🧠  I'm a React, Next.js and React Native developer<br/>
 ⚡  I would love to improve my dev and design skills, so contact me if you want to collaborate ;)<br/>
 
 
